@@ -38,7 +38,7 @@ const Footer = () => {
                         <h1 className='font-[biglaurasana] lg:text-7xl text-[20px] lg:border-2 border-[2px] border-white lg:px-8 px-2 lg:rounded-full rounded-3xl pt-1 hover:text-[#D3FD50] hover:border-[#D3FD50] cursor-pointer uppercase'>Contact</h1>
                     </div>
                 </div>
-                <div className="flex justify-between align-middle flex-col items-center lg:px-6 px-0.5 lg:py-3 py-4 text-sm border-t lg:border-white/20 border-none">
+                <div className="flex justify-between items-center lg:px-6 px-0.5 lg:py-3 py-4 text-sm border-t lg:border-white/20 border-none">
                     {/* Left */}
                     <div className="flex items-center gap-1 font-[laurasana] text-2xl hover:text-[#D3FD50]">
                         <span>MONTREAL_{time}</span>
